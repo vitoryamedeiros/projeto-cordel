@@ -71,6 +71,7 @@ section.img > p {
 }
 .img#img02 {
     background-image: url(imagens/download.jfif);
+    background-position: right center;
 
 }
 a {
