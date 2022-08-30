@@ -49,7 +49,6 @@ section.img {
     font-size: 1.5rem;
     text-align: center;
     color: rgba(255, 255, 255, 0.794);
-    background-color: rgb(108, 108, 108);
     box-shadow: inset 3px 6px 13px rgba(0, 0, 0, 0.674);   
     background-size: cover;
     background-attachment: fixed;
